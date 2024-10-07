@@ -28,3 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shipra0007&" alt="shipra0007" /></p>
 
+[![An image of @shipra0007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shipra0007)](https://holopin.io/@shipra0007)
